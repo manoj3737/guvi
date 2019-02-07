@@ -1,4 +1,4 @@
-original =input('Enter a word:')
+original =input(enter a word:"original =input('Enter a word:')
 word = original.lower()
 first = word[0]
 
